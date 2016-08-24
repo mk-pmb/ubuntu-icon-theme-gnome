@@ -14,12 +14,12 @@ Excluded for the time being:
 
 Copyright
 ---------
-| Package | License | Authors |
+| Package | Authors | License |
 |:----    |:----    |:----    |
-| gnome-icon-theme | [CC-BY-SA 3.0](gnome-icon-theme/COPYING_CCBYSA3) | [list](gnome-icon-theme/AUTHORS) |
-| …-extras | [CC-BY-SA 3.0](gnome-icon-theme-extras/COPYING) | [list](gnome-icon-theme-extras/AUTHORS) |
-| …-symbolic | [CC-BY-SA 3.0](gnome-icon-theme-symbolic/COPYING) | [list](gnome-icon-theme-symbolic/AUTHORS) |
-| **(summary)** | [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [GNOME Project](http://www.gnome.org/) |
+| gnome-icon-theme | [see list](gnome-icon-theme/AUTHORS) | [CC-BY-SA 3.0](gnome-icon-theme/COPYING_CCBYSA3) |
+| …-extras | [see list](gnome-icon-theme-extras/AUTHORS) | [CC-BY-SA 3.0](gnome-icon-theme-extras/COPYING) |
+| …-symbolic | [see list](gnome-icon-theme-symbolic/AUTHORS) | [CC-BY-SA 3.0](gnome-icon-theme-symbolic/COPYING) |
+| (summary) | [GNOME Project](http://www.gnome.org/) | [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 
 
   [gnit]: https://download.gnome.org/sources/gnome-icon-theme/
